@@ -16,6 +16,7 @@ namespace ConsoleShapes
             testrhombus();
             testcircle2();
             Console.WriteLine("stray");
+            Console.WriteLine("ss");
             
         }
         static void testcircle1()
