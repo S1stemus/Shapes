@@ -15,7 +15,7 @@ namespace ConsoleShapes
             testrectangle1();
             testrhombus();
             testcircle2();
-            Console.WriteLine("stray");
+            
             
 
             
